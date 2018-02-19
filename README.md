@@ -1,4 +1,7 @@
 # hello-world
 Following hello world github guide about repos
 First branch edit test. 
-# edit from master 
+readme-edits
+Second edit on the branch and pull/merge.
+=======
+
